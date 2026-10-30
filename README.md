@@ -44,8 +44,8 @@ The analysis showed differences between the ETFs in both performance and risk:
 
 This project shows how SQL and Python can be combined to analyze financial markets and evaluate the relationship between risk and return.
 
-- **QQQ (Nasdaq-100)** was both the most volatile ETF and the most profitable. Its cumulative return of 241.56 is almost double that of the second highest, the S&P 500 (123.96), at a comparable level of volatility.
-- **VT** was the least volatile, with lower volatility than every other ETF in the analysis, and it still delivered considerable growth (72.76).
-- **VGK** was the weakest performer. Despite considerable volatility (third out of five), it had the lowest cumulative return: "only" 42.40, against 241.56 for QQQ and 72.76 for VT.
+- **QQQ (Nasdaq-100)** was both the most volatile ETF and the most profitable. Its cumulative return of 241.56% is almost double that of the second highest, the S&P 500 (123.96%), at a comparable level of volatility.
+- **VT** was the least volatile, with lower volatility than every other ETF in the analysis, and it still delivered considerable growth (72.76%).
+- **VGK** was the weakest performer. Despite considerable volatility (third out of five), it had the lowest cumulative return: "only" 42.40%, against 241.56% for QQQ and 72.76% for VT.
 
 Taken together, the results generally follow the classic trade-off between return and risk.
